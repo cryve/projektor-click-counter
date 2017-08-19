@@ -1,6 +1,6 @@
 Package.describe({
   name: 'projektor:click-counter',
-  version: '0.0.1',
+  version: '0.1.0',
   summary: 'Button with click counter on project page',
 });
 
